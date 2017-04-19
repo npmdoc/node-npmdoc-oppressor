@@ -1,4 +1,7 @@
-# api documentation for  [oppressor (v0.0.1)](https://github.com/substack/oppressor)  [![npm package](https://img.shields.io/npm/v/npmdoc-oppressor.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-oppressor) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-oppressor.svg)](https://travis-ci.org/npmdoc/node-npmdoc-oppressor)
+# npmdoc-oppressor
+
+#### api documentation for  [oppressor (v0.0.1)](https://github.com/substack/oppressor)  [![npm package](https://img.shields.io/npm/v/npmdoc-oppressor.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-oppressor) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-oppressor.svg)](https://travis-ci.org/npmdoc/node-npmdoc-oppressor)
+
 #### streaming http compression response negotiator
 
 [![NPM](https://nodei.co/npm/oppressor.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/oppressor)
